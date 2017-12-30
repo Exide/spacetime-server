@@ -1,6 +1,6 @@
 const config = require('../config.json');
 const WebSocket = require('ws');
-const random = require('../../utils/random');
+const random = require('./random');
 const {Entity} = require('./entity');
 const moment = require('moment');
 const Vector = require('victor');

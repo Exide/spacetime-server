@@ -1,6 +1,6 @@
 const uuid = require('uuid/v4');
 const Vector = require('victor');
-const {degreesToRadians} = require('../../utils/math');
+const {degreesToRadians} = require('./math');
 
 /**
  *  Game axes (centered origin):

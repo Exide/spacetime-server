@@ -1,0 +1,14 @@
+{
+  "name": "spacetime-server",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "nodemon --harmony src/index.js"
+  },
+  "dependencies": {
+    "moment": "^2.18.1",
+    "nodemon": "^1.12.1",
+    "uuid": "^3.1.0",
+    "victor": "^1.1.0",
+    "ws": "^3.2.0"
+  }
+}
